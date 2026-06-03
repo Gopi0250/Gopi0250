@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gopi 👋
 
-<!--
-**Gopi0250/Gopi0250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.E. Computer Science Graduate | Full-Stack & AI Developer | Chennai, India
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, JavaScript (ES6+), SQL
+- **Web:** React.js, HTML5, CSS3, REST APIs
+- **AI/ML:** Ollama (Local LLM), NLP, Pandas, Matplotlib
+- **Tools:** Git, MySQL, Postman, Netlify, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🌦️ [Weather App](https://gopiweatherapp.netlify.app) — 
+  Production React.js app with OpenWeatherMap API, 
+  live on Netlify
+- 🤖 [Offline AI Document Summarizer](https://github.com/Gopi0250/SilverScript-Offline-AI-Document-Summarizer) — 
+  Local LLM pipeline using Llama 3.2:1B via Ollama, 
+  zero cloud dependency
+
+## 📜 Certifications
+- IBM AI Fundamentals
+- DSA using Java — Infosys Springboard
+- SQL Intermediate — HackerRank
+
+## 📫 Contact
+gopin2261@gmail.com | [LinkedIn](https://linkedin.com/in/gopi1205)
