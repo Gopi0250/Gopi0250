@@ -8,8 +8,7 @@
   <a href="mailto:gopin2261@gmail.com"><img src="https://img.shields.io/badge/Gmail-gopin2261%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gopi1205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://Gopi0250.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=flat&logo=github&logoColor=white" /></a>
+ 
 </p>
 
 ---
@@ -102,7 +101,7 @@ I'm a Computer Science graduate passionate about building **full-stack web apps*
 
 <p>
   📧 <a href="mailto:gopin2261@gmail.com">gopin2261@gmail.com</a><br/>
-  🔗 <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/gopi1205/)">LinkedIn</a>
+  🔗 <a href="https://www.linkedin.com/in/gopi1205/">LinkedIn</a>
 </p>
 
 ---
