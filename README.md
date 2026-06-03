@@ -1,25 +1,125 @@
-# Hi, I'm Gopi 👋
+<h1 align="center">Hi, I'm Gopi 👋</h1>
 
-B.E. Computer Science Graduate | Full-Stack & AI Developer | Chennai, India
+<p align="center">
+  <b>Full-Stack & AI Developer</b> · B.E. Computer Science Graduate · Chennai, India
+</p>
 
-## 🛠️ Tech Stack
-- **Languages:** Java, Python, JavaScript (ES6+), SQL
-- **Web:** React.js, HTML5, CSS3, REST APIs
-- **AI/ML:** Ollama (Local LLM), NLP, Pandas, Matplotlib
-- **Tools:** Git, MySQL, Postman, Netlify, VS Code
+<p align="center">
+  <a href="mailto:gopin2261@gmail.com"><img src="https://img.shields.io/badge/Gmail-gopin2261%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://gopi0250.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
-## 🚀 Projects
-- 🌦️ [Weather App](https://gopiweatherapp.netlify.app) — 
-  Production React.js app with OpenWeatherMap API, 
-  live on Netlify
-- 🤖 [Offline AI Document Summarizer](https://github.com/Gopi0250/SilverScript-Offline-AI-Document-Summarizer) — 
-  Local LLM pipeline using Llama 3.2:1B via Ollama, 
-  zero cloud dependency
+---
+
+## 🙋‍♂️ About Me
+
+I'm a Computer Science graduate passionate about building **full-stack web apps** and **AI-powered tools** — especially ones that run fully offline. I enjoy working across the stack, from clean React UIs to Python-based ML pipelines, and I'm always exploring ways to make AI practical and accessible.
+
+- 🔭 Currently working on local LLM projects using **Ollama + Llama 3.2**
+- 🌱 Exploring **NLP pipelines**, **RAG architectures**, and **REST API design**
+- 💬 Ask me about **React, Python, local AI models, or REST APIs**
+- 📫 Reach me at **gopin2261@gmail.com**
+- 💼 Open to **Full-Stack Developer** and **AI/ML Developer** roles in Chennai & remote
+
+---
+
+## 🔧 Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-00897B?style=flat&logo=fastapi&logoColor=white)
+
+**AI / ML**
+
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat&logo=ollama&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### ⛅ [Weather App](https://github.com/Gopi0250/Weather-App)
+> A responsive weather forecast web app with real-time data and a 3-day forecast.
+
+- Built with **React.js** and the **OpenWeatherMap API**
+- Clean, mobile-friendly UI with live weather conditions
+- Deployed live on **Netlify**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+---
+
+### 🤖 [Offline AI Document Summarizer](https://github.com/Gopi0250/SilverScript-Offline-AI-Document-Summarizer)
+> An offline-first AI tool that summarizes documents using a local LLM — no internet required.
+
+- Powered by **Llama 3.2:1B** via **Ollama** — zero cloud dependency
+- Uses **NLP** and **machine learning** for concise, accurate summaries
+- Fully private: documents never leave your machine
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat&logo=ollama&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=huggingface&logoColor=white)
+
+---
 
 ## 📜 Certifications
-- IBM AI Fundamentals
-- DSA using Java — Infosys Springboard
-- SQL Intermediate — HackerRank
 
-## 📫 Contact
-gopin2261@gmail.com | [LinkedIn](https://linkedin.com/in/gopi1205)
+| Certificate | Issuer |
+|---|---|
+| 🏅 IBM AI Fundamentals | IBM |
+| 🏅 Data Structures & Algorithms using Java | Infosys Springboard |
+| 🏅 SQL Intermediate | HackerRank |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopi0250&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi0250&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopi0250&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact
+
+<p>
+  📧 <a href="mailto:gopin2261@gmail.com">gopin2261@gmail.com</a><br/>
+  🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting! Feel free to explore my repos and reach out if you'd like to collaborate. 🤝</i>
+</p>
