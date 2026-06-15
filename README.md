@@ -1,29 +1,27 @@
 <h1 align="center">Hi, I'm Gopi 👋</h1>
-
 <p align="center">
-  <b>Full-Stack & AI Developer</b> · B.E. Computer Science Graduate · Chennai, India
+  <b>Full-Stack Developer · AI Engineer · Data Analyst</b><br>
+  B.E. Computer Science Graduate · Chennai, India
 </p>
-
 <p align="center">
   <a href="mailto:gopin2261@gmail.com"><img src="https://img.shields.io/badge/Gmail-gopin2261%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gopi1205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
- 
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a Computer Science graduate passionate about building **full-stack web apps** and **AI-powered tools** — especially ones that run fully offline. I enjoy working across the stack, from clean React UIs to Python-based ML pipelines, and I'm always exploring ways to make AI practical and accessible.
+I'm a Computer Science graduate who builds across the full spectrum — from **full-stack web applications** and **offline AI tools** to **end-to-end data analytics projects**. I enjoy turning raw data and complex problems into clean, practical solutions that create real business value.
 
-- 🔭 Currently working on local LLM projects using **Ollama + Llama 3.2**
-- 🌱 Exploring **NLP pipelines**, **RAG architectures**, and **REST API design**
-- 💬 Ask me about **React, Python, local AI models, or REST APIs**
+- 🔭 Currently building **data analytics projects** in the **Media & Entertainment domain**
+- 📊 Recently completed **Netflix Content Strategy Analysis** using Python, SQL, and Power BI
+- 🤖 Building local LLM projects using **Ollama + Llama 3.2** — zero cloud dependency
+- 🌱 Exploring **NLP pipelines**, **RAG architectures**, and **Business Intelligence dashboards**
+- 💬 Ask me about **Python, SQL, Power BI, React, or local AI models**
 - 📫 Reach me at **gopin2261@gmail.com**
-- 💼 Open to **Full-Stack Developer** and **AI/ML Developer** roles in Chennai & remote
-
----
+- 💼 Open to **Data Analyst**, **Business Analyst**, **Full-Stack**, and **AI/ML** roles in Chennai & remote
 
 ## 🔧 Tech Stack
 
