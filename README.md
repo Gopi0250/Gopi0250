@@ -60,18 +60,17 @@ I'm a Computer Science graduate passionate about building **full-stack web apps*
 
 ## 🚀 Featured Projects
 
-### ⛅ [Weather App](https://github.com/Gopi0250/Weather-App)
-> A responsive weather forecast web app with real-time data and a 3-day forecast.
+### 🎬 [Netflix Content Strategy & Viewership Analysis](https://github.com/Gopi0250/Netflix-content-analysis)
+> An end-to-end data analytics project analyzing 8,800+ Netflix titles to deliver actionable content strategy recommendations for the Media & Entertainment domain.
+- Analyzed **8,804 titles** across **88 countries** using **Python, SQL, and Power BI**
+- Built a **3-page interactive dashboard** with 6 KPIs, 12+ visualizations, and business insights
+- Delivered **5 data-driven recommendations** backed by EDA, SQL queries, and trend analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-- Built with **React.js** and the **OpenWeatherMap API**
-- Clean, mobile-friendly UI with live weather conditions
-- Deployed live on **Netlify**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
----
 
 ### 🤖 [Offline AI Document Summarizer](https://github.com/Gopi0250/SilverScript-Offline-AI-Document-Summarizer)
 > An offline-first AI tool that summarizes documents using a local LLM — no internet required.
@@ -83,6 +82,19 @@ I'm a Computer Science graduate passionate about building **full-stack web apps*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat&logo=ollama&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=huggingface&logoColor=white)
+
+---
+
+### ⛅ [Weather App](https://github.com/Gopi0250/Weather-App)
+> A responsive weather forecast web app with real-time data and a 3-day forecast.
+
+- Built with **React.js** and the **OpenWeatherMap API**
+- Clean, mobile-friendly UI with live weather conditions
+- Deployed live on **Netlify**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
