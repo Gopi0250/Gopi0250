@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gopi 👋</h1>
 <p align="center">
-  <b>Full-Stack Developer · AI Engineer · Data Analyst</b><br>
+  <b>Full-Stack Developer · AI Engineer </b><br>
   B.E. Computer Science Graduate · Chennai, India
 </p>
 <p align="center">
