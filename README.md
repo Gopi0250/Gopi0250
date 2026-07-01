@@ -1,58 +1,71 @@
 <h1 align="center">Hi, I'm Gopi 👋</h1>
+
 <p align="center">
-  <b>Full-Stack Developer · AI Engineer </b><br>
-  B.E. Computer Science Graduate · Chennai, India
+<b>Software Engineer • Full-Stack Developer • AI Enthusiast</b><br>
+B.E. Computer Science Engineering (2026) • Chennai, India
 </p>
+
 <p align="center">
-  <a href="mailto:gopin2261@gmail.com"><img src="https://img.shields.io/badge/Gmail-gopin2261%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gopi1205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gopin2261@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gopin2261%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gopi1205/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gopi_J-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Gopi0250">
+    <img src="https://img.shields.io/badge/GitHub-Gopi0250-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science graduate who builds across the full spectrum — from **full-stack web applications** and **offline AI tools** to **end-to-end data analytics projects**. I enjoy turning raw data and complex problems into clean, practical solutions that create real business value.
+I'm a Computer Science Engineering graduate passionate about building scalable software, solving real-world problems, and continuously learning new technologies.
 
-- 🔭 Currently building **data analytics projects** in the **Media & Entertainment domain**
-- 📊 Recently completed **Netflix Content Strategy Analysis** using Python, SQL, and Power BI
-- 🤖 Building local LLM projects using **Ollama + Llama 3.2** — zero cloud dependency
-- 🌱 Exploring **NLP pipelines**, **RAG architectures**, and **Business Intelligence dashboards**
-- 💬 Ask me about **Python, SQL, Power BI, React, or local AI models**
-- 📫 Reach me at **gopin2261@gmail.com**
-- 💼 Open to **Data Analyst**, **Business Analyst**, **Full-Stack**, and **AI/ML** roles in Chennai & remote
+I enjoy developing **full-stack web applications**, **AI-powered tools**, and **data-driven solutions** while strengthening my foundations in software engineering and backend development.
 
-## 🔧 Tech Stack
+- 💻 Building Java & Full-Stack applications
+- 🤖 Exploring Local LLMs using Ollama
+- 🌦️ Developed a Weather Application using REST APIs
+- 📄 Built an Offline AI Document Summarizer
+- 📊 Experienced with SQL, Python, and Data Analytics
+- 🌱 Currently learning Spring Boot, DSA, and System Design
+- 💬 Ask me about Java, SQL, JavaScript, REST APIs, Git, or AI
+- 📍 Chennai, India
+- 📫 gopin2261@gmail.com
 
-**Languages**
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
 
-**Frontend**
+### Languages
 
-![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-00897B?style=flat&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI / ML**
+### Frontend
 
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat&logo=ollama&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Tools & Platforms**
+### Backend
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Power BI • Jupyter Notebook • Ollama
 
 ---
 
@@ -103,6 +116,27 @@ I'm a Computer Science graduate who builds across the full spectrum — from **f
 | 🏅 IBM AI Fundamentals | IBM |
 | 🏅 Data Structures & Algorithms using Java | Infosys Springboard |
 | 🏅 SQL Intermediate | HackerRank |
+
+---
+
+
+## 📈 Currently Learning
+
+- Spring Boot
+- Data Structures & Algorithms
+- System Design
+- Cloud Fundamentals (AWS & Azure)
+- Artificial Intelligence
+
+---
+
+## 🎯 Career Interests
+
+- Software Engineering
+- Backend Development
+- Full-Stack Development
+- AI Engineering
+- Cloud Technologies
 
 ---
 
