@@ -27,7 +27,7 @@ I'm a Computer Science Engineering graduate passionate about building scalable s
 
 I enjoy developing **full-stack web applications**, **AI-powered tools**, and **data-driven solutions** while strengthening my foundations in software engineering and backend development.
 
-- 💻 Building Java & Full-Stack applications
+- 💻 Building Java, Spring Boot & Full-Stack applications
 - 🤖 Exploring Local LLMs using Ollama
 - 🌦️ Developed a Weather Application using REST APIs
 - 📄 Built an Offline AI Document Summarizer
@@ -70,6 +70,21 @@ Git • GitHub • VS Code • Postman • Power BI • Jupyter Notebook • Oll
 ---
 
 ## 🚀 Featured Projects
+
+### 🛒 [Digital Store – Full-Stack E-Commerce Web App](https://github.com/Gopi0250/digital-store)
+> A full-stack digital marketplace where users can register, browse, and purchase digital products — eBooks, music, software, and photography — through a simulated PIN-based checkout flow.
+
+- Built with **Java, Spring Boot, Thymeleaf, and MySQL**, following a layered architecture (Controller → Service → Repository)
+- Implemented **session-based authentication** and a role-separated **admin dashboard** for product management with file uploads
+- Exposed a **REST API layer** for users and products alongside the server-rendered web app
+- Collaborated with a team, dividing backend, database, and UI responsibilities
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+
+---
 
 ### 🎬 [Netflix Content Strategy & Viewership Analysis](https://github.com/Gopi0250/Netflix-content-analysis)
 > An end-to-end data analytics project analyzing 8,800+ Netflix titles to deliver actionable content strategy recommendations for the Media & Entertainment domain.
