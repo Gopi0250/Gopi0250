@@ -65,7 +65,7 @@ I enjoy developing **full-stack web applications**, **AI-powered tools**, and **
 
 ### Tools
 
-Git • GitHub • VS Code • Postman • Power BI • Jupyter Notebook • Ollama
+Git • GitHub • VS Code • Postman  • Ollama
 
 ---
 
