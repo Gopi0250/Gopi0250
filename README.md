@@ -98,7 +98,7 @@ Git • GitHub • VS Code • IntelliJ IDEA • Postman • Ollama
 
 ## 🚀 Featured Projects
 
-### ☁️ [Cloud-Based IT Service Request & Automation Portal](https://github.com/Gopi0250/REPO-NAME-HERE)
+### ☁️ [Cloud-Based IT Service Request & Automation Portal](https://github.com/Gopi0250/cloud-it-service-portal)
 > An IT service desk portal where employees raise service requests and admins review, approve and process them. Deployed live on AWS EC2.
 
 - **React 18 (Vite)** frontend, **FastAPI** backend and **MySQL** with SQLAlchemy ORM, all packaged with **Docker Compose** (three services: MySQL, FastAPI, React + Nginx)
