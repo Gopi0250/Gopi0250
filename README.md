@@ -23,17 +23,16 @@ B.E. Computer Science Engineering (2026) • Chennai, India
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering graduate passionate about building scalable software, solving real-world problems, and continuously learning new technologies.
+I'm a Computer Science Engineering graduate who likes building things that work end to end: web apps, AI tools and data projects. I'm early in my career and I learn by building, testing and deploying real projects.
 
-I enjoy developing **full-stack web applications**, **AI-powered tools**, and **data-driven solutions** while strengthening my foundations in software engineering and backend development.
-
-- 💻 Building Java, Spring Boot & Full-Stack applications
-- 🤖 Exploring Local LLMs using Ollama
-- 🌦️ Developed a Weather Application using REST APIs
-- 📄 Built an Offline AI Document Summarizer
-- 📊 Experienced with SQL, Python, and Data Analytics
-- 🌱 Currently learning Spring Boot, DSA, and System Design
-- 💬 Ask me about Java, SQL, JavaScript, REST APIs, Git, or AI
+- 💻 Building Java, Spring Boot and full-stack applications
+- ☁️ Built and deployed an IT service request portal on AWS EC2 with Docker
+- 🧪 Practising unit testing with JUnit 5 and Mockito
+- 🤖 Exploring local LLMs using Ollama
+- 🏢 Virtual intern at Infosys Springboard (React, Git workflow, team project)
+- 📊 Working with SQL, Python and data analytics
+- 🌱 Currently learning Spring Boot, DSA and System Design
+- 💬 Ask me about Java, SQL, JavaScript, REST APIs, Git or AI
 - 📍 Chennai, India
 - 📫 gopin2261@gmail.com
 
@@ -57,27 +56,88 @@ I enjoy developing **full-stack web applications**, **AI-powered tools**, and **
 ### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Testing
+
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 ### Tools
 
-Git • GitHub • VS Code • Postman  • Ollama
+Git • GitHub • VS Code • IntelliJ IDEA • Postman • Ollama
+
+---
+
+## 🏢 Experience
+
+### Virtual Intern, Infosys Springboard (2026)
+**AI Research Funding & Innovation Intelligence Platform**
+
+- Built the **Register and Login pages in React.js** with client-side validation on every input field, so bad data is caught before it reaches the backend
+- Worked from the mentor's written module requirements and checked each page against them
+- Part of a **six-member team** on an **8-week, 4-milestone** schedule, using a Git **branch and pull request** workflow
+- Platform scope: funding opportunity discovery, research trend analysis, patent landscape analysis and role-based dashboards (FastAPI, React, PostgreSQL)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
+### ☁️ [Cloud-Based IT Service Request & Automation Portal](https://github.com/Gopi0250/REPO-NAME-HERE)
+> An IT service desk portal where employees raise service requests and admins review, approve and process them. Deployed live on AWS EC2.
+
+- **React 18 (Vite)** frontend, **FastAPI** backend and **MySQL** with SQLAlchemy ORM, all packaged with **Docker Compose** (three services: MySQL, FastAPI, React + Nginx)
+- **JWT authentication** (60-minute expiry), **bcrypt** password hashing and **role-based access control** for Employee and Admin roles
+- A **Python automation engine** runs each fulfilment step in order and writes timestamped audit logs. The AWS provisioning (EC2, S3, RDS, IAM) is **simulated**, not live AWS calls
+- Deployed on **AWS EC2 (Ubuntu)** with Security Group configuration and auto-restart
+- Six setup guides in the repo: AWS, Docker, API, Auth, Database and Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+---
+
+### 🧪 [Cart Service Unit Testing](https://github.com/Gopi0250/cart-junit-demo)
+> A small Maven project that models a shopping cart, a discount service and an order service, built to practise unit testing in Java.
+
+- **14 JUnit 5 tests** covering normal cases and bad input, including **parameterized tests** (`@CsvSource`) for discount codes and **`assertThrows`** tests for exceptions
+- Used **Mockito** to mock the payment gateway and verify checkout behaviour: successful payment, empty cart (no charge attempted) and failed payment
+- Plain Java 17 with constructor injection and an interface for the payment gateway, so every class can be tested in isolation
+- Runs with a single command: `mvn test`
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logo=java&logoColor=white)
+
+---
+
 ### 🛒 [Digital Store – Full-Stack E-Commerce Web App](https://github.com/Gopi0250/digital-store)
-> A full-stack digital marketplace where users can register, browse, and purchase digital products — eBooks, music, software, and photography — through a simulated PIN-based checkout flow.
+> A full-stack digital marketplace where users can register, browse, and purchase digital products (eBooks, music, software, photography) through a simulated PIN-based checkout flow. Team project, where I contributed UI ideas.
 
 - Built with **Java, Spring Boot, Thymeleaf, and MySQL**, following a layered architecture (Controller → Service → Repository)
-- Implemented **session-based authentication** and a role-separated **admin dashboard** for product management with file uploads
-- Exposed a **REST API layer** for users and products alongside the server-rendered web app
-- Collaborated with a team, dividing backend, database, and UI responsibilities
+- **Session-based authentication** and a role-separated **admin dashboard** for product management with file uploads
+- **REST API layer** for users and products alongside the server-rendered web app
+- The repo README lists known limitations (for example plaintext password storage and no Spring Security), which I'm learning to fix as I go deeper into Spring
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -88,33 +148,36 @@ Git • GitHub • VS Code • Postman  • Ollama
 
 ### 🎬 [Netflix Content Strategy & Viewership Analysis](https://github.com/Gopi0250/Netflix-content-analysis)
 > An end-to-end data analytics project analyzing 8,800+ Netflix titles to deliver actionable content strategy recommendations for the Media & Entertainment domain.
+
 - Analyzed **8,804 titles** across **88 countries** using **Python, SQL, and Power BI**
 - Built a **3-page interactive dashboard** with 6 KPIs, 12+ visualizations, and business insights
 - Delivered **5 data-driven recommendations** backed by EDA, SQL queries, and trend analysis
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
+---
 
 ### 🤖 [Offline AI Document Summarizer](https://github.com/Gopi0250/SilverScript-Offline-AI-Document-Summarizer)
-> An offline-first AI tool that summarizes documents using a local LLM — no internet required.
+> An offline-first desktop tool that summarizes documents using a local LLM, with no internet required. Team project, where I built the file handling and text parsing module.
 
-- Powered by **Llama 3.2:1B** via **Ollama** — zero cloud dependency
-- Uses **NLP** and **machine learning** for concise, accurate summaries
-- Fully private: documents never leave your machine
+- Runs **Qwen2:7B-Instruct** locally through **Ollama**, with a **CustomTkinter** desktop interface
+- Supports **PDF, DOCX and TXT** files
+- My part: reading user-uploaded files and extracting clean text for the model
+- Private by design: documents never leave your machine
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat&logo=ollama&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=huggingface&logoColor=white)
 
 ---
 
 ### ⛅ [Weather App](https://github.com/Gopi0250/Weather-App)
-> A responsive weather forecast web app with real-time data and a 3-day forecast.
+> A responsive weather web app with real-time data. [Live demo](https://gopiweatherapp.netlify.app)
 
-- Built with **React.js** and the **OpenWeatherMap API**
+- Built with **React.js** and the **WeatherAPI.com** REST API
 - Clean, mobile-friendly UI with live weather conditions
 - Deployed live on **Netlify**
 
@@ -128,20 +191,23 @@ Git • GitHub • VS Code • Postman  • Ollama
 
 | Certificate | Issuer |
 |---|---|
-| 🏅 IBM AI Fundamentals | IBM |
+| 🏅 SQL (Intermediate) | HackerRank |
 | 🏅 Data Structures & Algorithms using Java | Infosys Springboard |
-| 🏅 SQL Intermediate | HackerRank |
+| 🏅 Agile Scrum in Practice | Infosys Springboard |
+| 🏅 IBM AI Fundamentals | IBM |
+| 🏅 Cloud Computing | NPTEL |
+| 🏅 Networking Basics | Cisco Networking Academy |
+| 🏅 Service Desk Associate | EduBridge / Capgemini |
 
 ---
 
-
 ## 📈 Currently Learning
 
-- Spring Boot
+- Spring Boot (Spring Data JPA, Hibernate)
 - Data Structures & Algorithms
 - System Design
-- Cloud Fundamentals (AWS & Azure)
-- Artificial Intelligence
+- Cloud Fundamentals (AWS)
+- Apache Kafka and microservices basics
 
 ---
 
@@ -154,7 +220,6 @@ Git • GitHub • VS Code • Postman  • Ollama
 - Cloud Technologies
 
 ---
-
 
 ## 📬 Contact
 
